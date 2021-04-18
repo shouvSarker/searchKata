@@ -26,8 +26,6 @@ export const getMatches = async (
   maxResults: number,
   matchedResults: number[]
 ) => {
-  console.log(engineUrl);
-  console.log(totalSoFar);
   const getOutcome: { total: number; matched: number[] } = await got(
     `${engineUrl}/Page${pageNumber.toLocaleString("en-US", {
       // Make 1 as 01 ... 9 as 09 as per provided url.

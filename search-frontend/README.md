@@ -23,4 +23,4 @@ yarn sanity-test
 yarn cypress-run
 ```
 
-Please note: For cypress tests to run as expected, backend service should already be running. Check [backend's readme](../search-backend/README.md) for how to start the serverless lambda offline.
+Please note: For cypress tests to run as expected, both frontend and backend service should already be running. Check [backend's readme](../search-backend/README.md) for how to start the serverless lambda offline.
