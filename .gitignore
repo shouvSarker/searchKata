@@ -1,0 +1,5 @@
+search-backend/.webpack
+search-backend/node_modules
+search-frontend/node_modules
+search-frontend/cypress/screenshots
+search-frontend/cypress/videos
