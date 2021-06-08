@@ -1,6 +1,6 @@
 # Search Interface
 
-This solves [Automatic Search Operation](kata.pdf) task. It is implemented with a lambda function as the backend and a create react app on the frontend.
+This counts number of times a keyword pops up in a search result. It is implemented with a lambda function as the backend and a create react app on the frontend.
 
 ## Running the application
 
